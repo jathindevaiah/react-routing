@@ -1,7 +1,7 @@
 import { Route } from 'react-router-dom';
-import MainHeader from './components/MainHeader';
-import Products from './components/Products';
-import Welcome from './components/Welcome';
+import MainHeader from './components/MainHeader/MainHeader';
+import Products from './components/Products/Products';
+import Welcome from './components/Welcome/Welcome';
 
 function App() {
   return (
